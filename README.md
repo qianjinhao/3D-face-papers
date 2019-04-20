@@ -1,7 +1,9 @@
 # 3D-face-papers
 Hello! Here is a collection of 3d face related papers and code implementations. Welcome to contribute.
 
-Proceedings ofthe 26th annual conference on Computer graphics and interactive techniques 1999
+
+
+Computer graphics and interactive techniques 1999
 * 3DMM [A Morphable Model For The Synthesis Of 3D Faces](https://cseweb.ucsd.edu/~ravir/6998/papers/p187-blanz.pdf)
 
 CVPR 2016
